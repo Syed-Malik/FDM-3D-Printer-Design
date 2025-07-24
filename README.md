@@ -14,3 +14,5 @@ SolidWorks | Fabrication | Rapid Prototyping | Manufacturing | Cost Optimization
 
 ## Outcome
 Delivered a fully operational printer used in lab applications and student workshops.
+
+![image alt](https://github.com/Syed-Malik/FDM-3D-Printer-Design/blob/e59e86aad1e1884dea86bd91704f6cffe795cf05/WhatsApp%20Image%202025-07-24%20at%2008.08.08_d1e80f64.jpg)
