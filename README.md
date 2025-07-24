@@ -1,2 +1,16 @@
-# FDM-3D-Printer-Design
-Cost-Effective FDM 3D Printer
+# Cost-Effective FDM 3D Printer
+
+## Overview
+This project involved the design and fabrication of a functional FDM 3D printer optimized for academic and industrial usage. The focus was to minimize production costs while maintaining high reliability and print quality.
+
+## Key Contributions
+- Designed mechanical components using SolidWorks and fabricated the frame with sheet metal.
+- Optimized printer head calibration and temperature control systems.
+- Integrated custom-built extruder and drive system.
+- Reduced production cost by 15% compared to commercial systems.
+
+## Skills & Tools
+SolidWorks | Fabrication | Rapid Prototyping | Manufacturing | Cost Optimization
+
+## Outcome
+Delivered a fully operational printer used in lab applications and student workshops.
